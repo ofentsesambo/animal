@@ -1,0 +1,19 @@
+{
+  "name": "animal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofentsesambo/animal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ofentsesambo/animal/issues"
+  },
+  "homepage": "https://github.com/ofentsesambo/animal#readme"
+}
